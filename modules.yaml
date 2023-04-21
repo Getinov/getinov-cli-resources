@@ -1,0 +1,2 @@
+modules:
+  api: "git@git.getinov.com:getinov/getinov-cli/modules/api.git"
